@@ -1,0 +1,5 @@
+pip install pymorphy2
+pip install -U pymorphy2-dicts-ru
+
+# All tags:
+http://opencorpora.org/dict.php?act=gram
